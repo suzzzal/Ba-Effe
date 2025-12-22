@@ -1,6 +1,4 @@
-# Readme
-
-# 🎞️ Ba-Effe: Effervescence Creatives Repository
+# 🍬 Ba-Effe: Effervescence Creatives Repository
 
 Welcome to **Ba-Effe**, the design repository for **Effervescence**, the annual cultural fest of IIIT Allahabad. Yes, it's exactly what Ranbir Kapoor's character in Barfi could spell - if you know, you know.
 
@@ -21,8 +19,6 @@ We're building everything visual for Effervescence:
 
 Your designs might end up on social media, festival grounds, merchandise, or massive banners. Pretty cool, right?
 
----
-
 ## 👥 Who Can Join This Party?
 
 **Everyone.** Seriously.
@@ -33,8 +29,6 @@ Your designs might end up on social media, festival grounds, merchandise, or mas
 
 No gatekeeping here. Just bring your creativity and a willingness to learn!
 
----
-
 ## 🎨 Design Guidelines
 
 Keep it clean, keep it original, keep it professional:
@@ -44,8 +38,6 @@ Keep it clean, keep it original, keep it professional:
 - **Clear hierarchy** — If grandma can't read it, fix it
 - **Production-ready** — Designs should work IRL, not just on your screen
 - **Purpose over pizzazz** — Make it mean something
-
----
 
 ## 📂 How to Contribute
 
@@ -126,6 +118,8 @@ Once ready:
 
 Add a clear title and brief description. **Important:** First line must be `Issue: #<issue_number>`
 
+---
+
 ## Important Notes
 
 - **Do NOT modify existing files** (unless that's literally what the issue asks for — otherwise it's instant chaos 😭)
@@ -139,6 +133,8 @@ Use whatever you're comfortable with:
 
 - Figma, Adobe Suite, Blender, Sketch, Adobe XD, or similar tools
 
+---
+
 ## Why Contribute?
 
 - Work on a real fest brand
@@ -146,6 +142,8 @@ Use whatever you're comfortable with:
 - Improve your design skills
 - Build your portfolio
 - Recognition through OpenCode '25
+
+---
 
 ## Resources
 
